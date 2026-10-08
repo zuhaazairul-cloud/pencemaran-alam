@@ -1,0 +1,8 @@
+{
+  "name": "Remix Penjaga Nusantara",
+  "description": "An immersive educational adventure where players restore Malaysia’s environment by completing fun quests and solving pollution-themed quiz battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
